@@ -17,11 +17,13 @@ cd Emma-0.3v
 git clone https://huggingface.co/coqui/XTTS-v2
 ```
 
-## Create a virtual environment.
+## Create a virtual environment and activate it.
 4.
 ```bash
 & "D:\Private Server\Apps\PYTHON VERSIONS\python310\python.exe" -m venv venv
+venv/Scripts/Activate
 ```
+
 
 ## Install the requirements.
 5.
