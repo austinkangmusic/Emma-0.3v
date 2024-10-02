@@ -1,0 +1,5 @@
+{"role": "user", "content": "I just went for a walk and saw the sunset... [Speaking]"}
+{"role": "ai", "content": "{\n  \"thoughts\": [\n    \"The user is sharing a personal experience and seems to be in a calm state.\"\n  ],\n  \"tool_name\": \"listen\",\n  \"tool_args\": {}\n}"}
+{"role": "user", "content": "I just went for a walk and saw the sunset and I killed someone in... [Speaking]"}
+{"role": "ai", "content": "{\n  \"thoughts\": [\n    \"The user's statement has taken a dark turn, and I need to assess the situation carefully.\"\n  ],\n  \"tool_name\": \"think\",\n  \"tool_args\": {\n    \"text\": \"Consider the user's words, potential consequences, and my response's impact.\"\n  }\n}"}
+{"role": "ai", "content": ""}

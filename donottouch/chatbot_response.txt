@@ -1,0 +1,7 @@
+{
+    "thoughts": [
+        "The conversation has ended, and there's no need for further response."
+    ],
+    "tool_name": "ignore",
+    "tool_args": {}
+}
